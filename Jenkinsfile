@@ -11,7 +11,7 @@ pipeline {
     environment {
         REPO_URL = 'https://github.com/Duyzhii/ci_cd_k8s.git'
         BRANCH_NAME = "${params.BRANCH_NAME}"
-        IMAGE_NAME = 'nladuy22127086/ci_cd_k8s'
+        IMAGE_NAME = 'ntquan87/nladuy22127086'
     }
 
 
